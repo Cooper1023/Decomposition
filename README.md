@@ -1,5 +1,5 @@
 # Decomposition
-调用EMD-Signal（https://github.com/laszukdawid/PyEMD）进行信号分解，EMD，EEMD，CEEMDAN
+调用[EMD-Signal](https://github.com/laszukdawid/PyEMD)进行信号分解，EMD，EEMD，CEEMDAN
 
 decomposition.ipynb：示例文件
 
