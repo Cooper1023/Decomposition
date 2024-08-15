@@ -4,6 +4,8 @@
 decomposition.ipynb：示例文件
 
   三种信号分解算法的调用，保存结果，画图
+
+decomposition_VMD.ipynb: 补充了VMD分解
   
 Amazon16-21.csv：示例数据
 
@@ -14,3 +16,6 @@ Amazon16-21.csv：示例数据
   - EEMD_result.png
   - EMD_result.csv
   - EMD_result.png
+
+
+Entropy.ipynb: 使用EntropyHub实现近似熵、样本熵、模糊熵与排列熵
